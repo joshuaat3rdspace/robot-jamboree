@@ -1,0 +1,15 @@
+{
+  "name": "robot-jamboree",
+  "version": "1.0.0",
+  "description": "Two AI agents having an organic conversation via Telegram",
+  "main": "chuckles.js",
+  "scripts": {
+    "chuckles": "node chuckles.js",
+    "bonnie": "node bonnie.js",
+    "chat-id": "node get-chat-id.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
