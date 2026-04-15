@@ -1,2 +1,5 @@
 node_modules/
 .env
+.last_offset_*
+.last_line_*
+messages.jsonl
